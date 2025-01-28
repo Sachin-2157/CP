@@ -1,0 +1,7 @@
+# Ignore executable files
+*.exe
+*.out
+*.bin
+
+# Optional: Ignore all files in bin/ directory
+bin/
